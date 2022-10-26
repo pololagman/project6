@@ -1,10 +1,10 @@
 # Android Project 6 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Polo Lagman
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+Project 6 is a health metrics app that allows users to track their food and calories
 
-Time spent: **X** hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
@@ -27,22 +27,20 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/hcPYotjdGJxzBHVJqc/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble with implenting the fragments.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Polo Lagman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
